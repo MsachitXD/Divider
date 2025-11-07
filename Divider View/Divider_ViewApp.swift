@@ -11,7 +11,7 @@ import SwiftUI
 struct Divider_ViewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SimpleLine()
         }
     }
 }
